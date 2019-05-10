@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-firebaseAuth/static/css/main.584f321a.chunk.css",
+    "main.js": "/react-redux-firebaseAuth/static/js/main.fd2f26c9.chunk.js",
+    "main.js.map": "/react-redux-firebaseAuth/static/js/main.fd2f26c9.chunk.js.map",
+    "runtime~main.js": "/react-redux-firebaseAuth/static/js/runtime~main.15785eee.js",
+    "runtime~main.js.map": "/react-redux-firebaseAuth/static/js/runtime~main.15785eee.js.map",
+    "static/js/2.8bcc3e67.chunk.js": "/react-redux-firebaseAuth/static/js/2.8bcc3e67.chunk.js",
+    "static/js/2.8bcc3e67.chunk.js.map": "/react-redux-firebaseAuth/static/js/2.8bcc3e67.chunk.js.map",
+    "index.html": "/react-redux-firebaseAuth/index.html",
+    "precache-manifest.5889429dbb8653980555fa6bc65c92ad.js": "/react-redux-firebaseAuth/precache-manifest.5889429dbb8653980555fa6bc65c92ad.js",
+    "service-worker.js": "/react-redux-firebaseAuth/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/react-redux-firebaseAuth/static/css/main.584f321a.chunk.css.map"
+  }
+}
