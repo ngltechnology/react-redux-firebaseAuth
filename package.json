@@ -2,6 +2,7 @@
   "name": "react-firebase-auth",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ngltechnology.github.io/react-redux-firebaseAuth/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -11,7 +12,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "ghdeploy": "react-scripts build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -27,6 +29,7 @@
     "@material-ui/icons": "^3.0.2",
     "@material-ui/styles": "^3.0.0-alpha.10",
     "firebase": "^5.10.1",
+    "gh-pages": "^2.0.1",
     "react-redux": "^7.0.2",
     "react-router": "^5.0.0",
     "redux": "^4.0.1",
